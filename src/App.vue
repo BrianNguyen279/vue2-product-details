@@ -1,3 +1,4 @@
+// Them noi dung vao file ap.vue - 25/05/2021
 <template>
   <div id="app">
     <div id="nav">
